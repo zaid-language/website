@@ -1,0 +1,19 @@
+body {
+  @apply font-sans antialiased text-slate-900;
+}
+
+.zaid-header .nuxt-link-active {
+  @apply border-indigo-500 text-slate-900;
+}
+
+.docs-sidebar .nuxt-link-active {
+  @apply bg-indigo-50 rounded-md text-indigo-700;
+}
+
+.on-this-page .nuxt-link-exact-active {
+  @apply text-slate-900;
+}
+
+.on-this-page .nuxt-link-exact-active:hover {
+  @apply text-slate-900;
+}
