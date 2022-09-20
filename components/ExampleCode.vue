@@ -6,7 +6,7 @@
     }
 
     function brew() {
-        print('Enjoy your cup of %s'.format(this.coffee))
+        printftw('Enjoy your cup of %s'.format(this.coffee))
     }
 }
 
